@@ -1,0 +1,14 @@
+E:\Faculdade\2022_1\ia\aula7\exemplo\kmeans\kmeans\bin\Debug\netcoreapp3.1\kmeans.exe
+E:\Faculdade\2022_1\ia\aula7\exemplo\kmeans\kmeans\bin\Debug\netcoreapp3.1\kmeans.deps.json
+E:\Faculdade\2022_1\ia\aula7\exemplo\kmeans\kmeans\bin\Debug\netcoreapp3.1\kmeans.runtimeconfig.json
+E:\Faculdade\2022_1\ia\aula7\exemplo\kmeans\kmeans\bin\Debug\netcoreapp3.1\kmeans.runtimeconfig.dev.json
+E:\Faculdade\2022_1\ia\aula7\exemplo\kmeans\kmeans\bin\Debug\netcoreapp3.1\kmeans.dll
+E:\Faculdade\2022_1\ia\aula7\exemplo\kmeans\kmeans\bin\Debug\netcoreapp3.1\kmeans.pdb
+E:\Faculdade\2022_1\ia\aula7\exemplo\kmeans\kmeans\obj\Debug\netcoreapp3.1\kmeans.csproj.AssemblyReference.cache
+E:\Faculdade\2022_1\ia\aula7\exemplo\kmeans\kmeans\obj\Debug\netcoreapp3.1\kmeans.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\2022_1\ia\aula7\exemplo\kmeans\kmeans\obj\Debug\netcoreapp3.1\kmeans.AssemblyInfoInputs.cache
+E:\Faculdade\2022_1\ia\aula7\exemplo\kmeans\kmeans\obj\Debug\netcoreapp3.1\kmeans.AssemblyInfo.cs
+E:\Faculdade\2022_1\ia\aula7\exemplo\kmeans\kmeans\obj\Debug\netcoreapp3.1\kmeans.csproj.CoreCompileInputs.cache
+E:\Faculdade\2022_1\ia\aula7\exemplo\kmeans\kmeans\obj\Debug\netcoreapp3.1\kmeans.dll
+E:\Faculdade\2022_1\ia\aula7\exemplo\kmeans\kmeans\obj\Debug\netcoreapp3.1\kmeans.pdb
+E:\Faculdade\2022_1\ia\aula7\exemplo\kmeans\kmeans\obj\Debug\netcoreapp3.1\kmeans.genruntimeconfig.cache
